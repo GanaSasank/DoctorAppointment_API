@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Dr.Gana",
+        "specialization": "Cardiologist",
+        "available_slots": [
+            {
+                "week_day": "Monday",
+                "time": "18:00 - 20:00",
+                "max_patients": 5,
+                "available_patients": 3
+            },
+            {
+                "week_day": "Wednesday",
+                "time": "18:00 - 20:00",
+                "max_patients": 5,
+                "available_patients": 5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dr.Sasank",
+        "specialization": "Dermatologist",
+        "available_slots": [
+            {
+                "week_day": "Tuesday",
+                "time": "18:00 - 20:00",
+                "max_patients": 5,
+                "available_patients": 2
+            },
+            {
+                "week_day": "Thursday",
+                "time": "18:00 - 20:00",
+                "max_patients": 5,
+                "available_patients": 4
+            }
+        ]
+    }
+]
